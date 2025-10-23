@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/asitk/Desktop/Flower_detector-main/runs/mlflow/400211434144877772/27463715d77747f1bbad317a4adc9ba0/artifacts
+end_time: 1760816383943
+entry_point_name: ''
+experiment_id: '400211434144877772'
+lifecycle_stage: active
+run_id: 27463715d77747f1bbad317a4adc9ba0
+run_name: train2
+run_uuid: 27463715d77747f1bbad317a4adc9ba0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760816191738
+status: 3
+tags: []
+user_id: asitk
